@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenzie5
+Determined and well-prepared computer engineering graduate student with experience in multiple applications and coding languages.
 
 <!---
 Kenzie5/Kenzie5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
